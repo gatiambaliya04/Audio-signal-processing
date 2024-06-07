@@ -76,8 +76,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 This repository is inspired by various online courses, tutorials, and documentation on audio signal processing. Special thanks to the open-source community for providing valuable resources and tools.
 
-```csharp
 
-You can copy and paste this markup code into your `README.md` file on GitHub. Be sure to replace `yourusername` with your actual GitHub username in the repository URL.
-
-```
